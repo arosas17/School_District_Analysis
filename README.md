@@ -4,6 +4,8 @@ Thomas High School(THS)
 
 ## Overview of the school district analysis
 
+To demostrate what will happen in placing null data into a data set.
+
 Explain the purpose of this analysis.
 
 ## Results
@@ -18,8 +20,15 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
 ### District Summary (Removed Data)
 ![District Summary (Without THS 9th Grade Data)](/Images/district_summary_challenge.png)
-How is the district summary affected?
 
+How is the district summary affected?
+The two results demostrate a few ideas of what taking THS 9th grade data does to the district as a whole.
+Overall, what occurred here is:
+*The average math score decreased from 79.0 to 78.9.
+*The average reading score show no diffrence.
+*The passing math percentage decreased from 75.0% to 74.8%
+*The overall passing rate decreased from 65.2% to 64.9%.
+As a district, the removal of the THS's 9th grade data shows a very minimal amout of change. The most effected part of the district summary would be the overall passing rate with as decrease of 0.3%. This is most likely due to the fact that a single from from one school is a small part of the a rather large data set.  
 
 ### School Summary (Complete Data)
 ![School Summary (Complete Data)](/Images/school_summary_PyCity_Schools.png)
