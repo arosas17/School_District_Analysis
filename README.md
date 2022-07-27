@@ -69,10 +69,13 @@ How does replacing the ninth-grade scores affect the following:
 ### Math Scores by Grade (Complete Data) &nbsp; Reading Scores by Grade (Complete Data)
 ![Math Scores by Grade (Complete Data)](/Images/math_scores_by_grade_PyCity_Schools.png)   &emsp;&emsp;&emsp; ![Reading Scores by Grade (Complete Data)](/Images/reading_scores_by_grade_PyCity_Schools.png)
 
+
 ### Reading Scores by Grade (Removed Data) &nbsp; Reading Scores by Grade (Removed Data)
 &emsp;![Math Scores by Grade (Without THS 9th Grade Data)](/Images/math_scores_by_grade_challenge.png)   &emsp;&emsp;&emsp;&emsp; ![Reading Scores by Grade (Complete Data)](/Images/reading_scores_by_grade_challenge.png)
 
   Math and reading scores by grade
+  
+ There are no real changes in terms of data when comparing grades in THS. The only diffrence now is that the 9th grade column has "nan" to say it is not a number. All other grades are uneffected by the change in data.
   
 ### Spending per Student and Class Performance (Complete Data)
   ![School Spending (Complete Data)](/Images/spending_per_student_challenge.png)
