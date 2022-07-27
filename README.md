@@ -82,27 +82,21 @@ How does replacing the ninth-grade scores affect the following:
 ### Spending per Student and Class Performance (Removed Data)
 ![School Spending (Removed Data)](/Images/spending_per_student_PyCity_Schools.png)
   
-No notiable change has occured when comparing spending on students.
-  
 ### School Size and Class Performance (Complete Data)
 ![School Size (Complete Data)](/Images/student_body_size_PyCity_Schools.png)
 ### School Size and Class Performance (Removed Data)
 ![School Size (Removed Data)](/Images/student_body_size_challenge.png)
- No notiable change.
+
    
 ### School Type and Class Performance (Complete Data)
 ![School Size (Complete Data)](/Images/school_type_PyCity_Schools.png)
 ### School Type and Class Performance (Removed Data)
 ![School Size (Removed Data)](/Images/school_type_challenge.png)
    
-No notiable change
+Looking at the tables above. When comparing between the complete data set and data set with removed data, we can see no notable difference when comparing between the school performance and spending per student, school size, or school type. This may be due to the fact such little change occurred to the school itself when the data was taken out, that adding it to larger data set that would make it compare more to the original results, making it indistinguishable to the original data.
 
 
 ## Summary
 : Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
-Overall. the changes made by taking out the THS 9th grade data has had a minimal impact on the data. The district was impacted by a decrease in passing percentages. With the data taken out, the district the passing rates went down 0.2% in math, 0.1% in reading, and 0.3% overall. Even as a school, the change in passing rates for THS has been minimal even with the school missing about a quarter of their grades. With the missing data, THS had a decrease rate of passing with a drop of 0.08% difference in math, 0.29% decrease in reading, and a 0.32% decrease in overall passing rates. As mentioned before, this would indicate that the 9th grade data of THS was slightly higher on then THS as a whole. The third noticeable change would be with ranking where THS nearly dropped to third place, dropping from a overall passing rate of 90.95% to 90.63%, with only an approimate diffrence of 0.03% before losing its ranking in 2nd.
-
-
-* Come close to being ranked 3rd
-* Data for the 9th grad class is no longer avaliable
+Overall. the changes made by taking out the THS 9th grade data has had a minimal impact on the data. The district was impacted by a decrease in passing percentages. With the data taken out, the district the passing rates went down 0.2% in math, 0.1% in reading, and 0.3% overall. Even as a school, the change in passing rates for THS has been minimal even with the school missing about a quarter of their grades. With the missing data, THS had a decrease rate of passing with a drop of 0.08% difference in math, 0.29% decrease in reading, and a 0.32% decrease in overall passing rates. As mentioned before, this would indicate that the 9th grade data of THS was slightly higher on then THS as a whole. The third noticeable change would be with ranking where THS nearly dropped to third place, dropping from a overall passing rate of 90.95% to 90.63%, with only an approximate difference of 0.03% before losing its ranking in 2nd. Lastly, the last notable change would be the fact no specific information may be determined about the 9th with it taken way. When looking at the "Scores by Grade" tables, it is noticed that "nan" is placed on the information for the 9th grade. If the completed data set that included THS 9th grade data was not already obtained, there would be no way to determine what the 9th grade data could possibly contain.
