@@ -1,12 +1,6 @@
 # School_District_Analysis
-Thomas High School(THS)
-
-
 ## Overview of the school district analysis
-
-To demostrate what will happen in placing null data into a data set.
-
-Explain the purpose of this analysis.
+Thomas High School(THS) is suspected of academic dishonesty, beleive that the school's 9th grade data in math and reading has been altered. In oder to determine if this is correct, it has been asked to null the data of the 9th graders and reconduct the data to observe what changes may occur.
 
 ## Results
 
@@ -86,4 +80,4 @@ Looking at the tables above, when comparing between the complete data set and da
 
 ## Summary
 
-Overall. the changes made by taking out the THS 9th grade data has had a minimal impact on the data. The district was impacted by a decrease in passing percentages. With the data taken out, the district the passing rates went down 0.2% in math, 0.1% in reading, and 0.3% overall. Even as a school, the change in passing rates for THS has been minimal even with the school missing about a quarter of their grades. With the missing data, THS had a decrease rate of passing with a drop of 0.08% difference in math, 0.29% decrease in reading, and a 0.32% decrease in overall passing rates. As mentioned before, this would indicate that the 9th grade data of THS was slightly higher on then THS as a whole. The third noticeable change would be with ranking where THS nearly dropped to third place, dropping from a overall passing rate of 90.95% to 90.63%, with only an approximate difference of 0.03% before losing its ranking in 2nd. Lastly, the last notable change would be the fact no specific information may be determined about the 9th with it taken way. When looking at the "Scores by Grade" tables, it is noticed that "nan" is placed on the information for the 9th grade. If the completed data set that included THS 9th grade data was not already obtained, there would be no way to determine what the 9th grade data could possibly contain.
+Overall. the changes made by taking out the THS 9th grade data has had a minimal impact on the data. The district was impacted by a decrease in passing percentages. With the data taken out, the district the passing rates went down 0.2% in math, 0.1% in reading, and 0.3% overall. Even as a school, the change in passing rates for THS has been minimal even with the school missing about a quarter of their grades. With the missing data, THS had a decrease rate of passing with a drop of 0.08% difference in math, 0.29% decrease in reading, and a 0.32% decrease in overall passing rates. As mentioned before, this would indicate that the 9th grade data of THS was slightly higher on then THS as a whole. The third noticeable change would be with ranking where THS nearly dropped to third place, dropping from a overall passing rate of 90.95% to 90.63%, with only an approximate difference of 0.03% before losing its ranking in 2nd. Lastly, the last notable change would be the fact no specific information may be determined about the 9th with it taken way. When looking at the "Scores by Grade" tables, it is noticed that "nan" is placed on the information for the 9th grade. This confirms that the data was ran without THS's 9th grad data. In general, the data looks reasonable and looks like it would comply to academic honesty policies based on the fact there are only very minor changes between the data with or without THS 9th grade data. 
