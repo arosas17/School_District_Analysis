@@ -60,6 +60,9 @@ When the data was taken out, it led to changes in THS, such as:
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+The tables above show the top five schools in the district based on the overall passing percentage. Although the overall percentage of THS decreased to 90.63%, the school still in 2nd place as it did prior to dismissing the 9th grade data. However, it is noted that it nearly dropped to 3rd placed by Griffin High School, who had an overall passing percentage of 90.60%. This would be a difference of approximately 0.03% before THS is dropped a place.
+
+
 
 How does replacing the ninth-grade scores affect the following:
 
