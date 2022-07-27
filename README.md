@@ -82,22 +82,27 @@ How does replacing the ninth-grade scores affect the following:
 ### Spending per Student and Class Performance (Removed Data)
 ![School Spending (Removed Data)](/Images/spending_per_student_PyCity_Schools.png)
   
-  Scores by school spending
+No notiable change has occured when comparing spending on students.
   
 ### School Size and Class Performance (Complete Data)
 ![School Size (Complete Data)](/Images/student_body_size_PyCity_Schools.png)
 ### School Size and Class Performance (Removed Data)
 ![School Size (Removed Data)](/Images/student_body_size_challenge.png)
-   Scores by school size
+ No notiable change.
    
 ### School Type and Class Performance (Complete Data)
 ![School Size (Complete Data)](/Images/school_type_PyCity_Schools.png)
 ### School Type and Class Performance (Removed Data)
 ![School Size (Removed Data)](/Images/school_type_challenge.png)
    
-  Scores by school type
+No notiable change
 
 
 ## Summary
-
 : Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+
+* Decreases the distict passing rates slightly.
+* It decreases the passing rates in THS as seen previously on the school summary table.
+* Come close to being ranked 3rd
+* Data for the 9th grad class is no longer avaliable
