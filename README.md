@@ -101,8 +101,8 @@ No notiable change
 ## Summary
 : Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
+Overall. the changes made by taking out the THS 9th grade data has had a minimal impact on the data. The district was impacted by a decrease in passing percentages. With the data taken out, the district the passing rates went down 0.2% in math, 0.1% in reading, and 0.3% overall. Even as a school, the change in passing rates for THS has been minimal even with the school missing about a quarter of their grades. With the missing data, THS had a decrease rate of passing with a drop of 0.08% difference in math, 0.29% decrease in reading, and a 0.32% decrease in overall passing rates. As mentioned before, this would indicate that the 9th grade data of THS was slightly higher on then THS as a whole. The third noticeable change would be with ranking where THS nearly dropped to third place, dropping from a overall passing rate of 90.95% to 90.63%, with only an approimate diffrence of 0.03% before losing its ranking in 2nd.
 
-* Decreases the distict passing rates slightly.
-* It decreases the passing rates in THS as seen previously on the school summary table.
+
 * Come close to being ranked 3rd
 * Data for the 9th grad class is no longer avaliable
